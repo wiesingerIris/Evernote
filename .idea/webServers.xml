@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6fb79f4-c412-40fb-9c6f-63960fb2bbb1" name="HETZNER" url="http://kwmevernote24.s2110456031.student.kwmhgb.at/">
+        <fileTransfer rootFolder="/usr/home/sstud126/public_html/kwmevernote24/kwmevernoteServer" accessType="SFTP" host="dedi50.your-server.de" port="222" sshConfigId="b915cab6-7caa-4c98-b843-9f87e5fabda3" sshConfig="sstud126@dedi50.your-server.de:222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="058c1f14-4407-450d-9443-eb5c20e1ae4d" name="HETZNER-Evernote" url="http://kwmevernote24.s2110456031.student.kwmhgb.at/">
+        <fileTransfer rootFolder="/usr/home/sstud126/public_html/kwmevernote24/kwmevernoteServer" accessType="SFTP" host="dedi50.your-server.de" port="222" sshConfigId="b915cab6-7caa-4c98-b843-9f87e5fabda3" sshConfig="sstud126@dedi50.your-server.de:222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
